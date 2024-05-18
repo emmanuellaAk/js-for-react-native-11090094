@@ -19,7 +19,7 @@ Wrote a  function processArray in arrayManipulation.js that:
   Convert the string to lowercase if the number is odd.
 
 **TASK 3**
-CreateD a file userInfo.js.
+Created a file userInfo.js.
   Wrote a function called createUserProfiles that:
   Takes an array of names and the array of modified names from Task 2.
   Returns an array of objects, each containing originalName, modifiedName and id (auto-incremented starting from 1).
